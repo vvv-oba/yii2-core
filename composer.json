@@ -1,0 +1,21 @@
+{
+    "name": "vvv-oba/yii2-core",
+    "description": "desc",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "oba",
+            "email": "oyoy8629@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "oba\\core\\": ""
+        }
+    }
+}
